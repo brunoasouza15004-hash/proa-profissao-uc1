@@ -1,0 +1,149 @@
+{
+  "categories": [
+    {
+      "name": "Mais Vendidas",
+      "products": [
+        {
+          "id": 1,
+          "name": "Pitangueira",
+          "price": 0,
+          "url": "/images/pitangueira.png"
+        },
+        {
+          "id": 2,
+          "name": "Quaresmeira",
+          "price": 0,
+          "url": "/images/quaresmeira.png"
+        },
+        {
+          "id": 3,
+          "name": "Bromélia Gusmânia",
+          "price": 0,
+          "url": "/images/bromelia-gusmania.png"
+        },
+        {
+          "id": 4,
+          "name": "Ingá-feijão",
+          "price": 0,
+          "url": "/images/inga-feijao.png"
+        }
+      ]
+    },
+    {
+      "name": "Plantas Para Iniciantes",
+      "products": [
+        {
+          "id": 5,
+          "name": "Pitangueira",
+          "price": 0,
+          "url": "/images/pitangueira.png"
+        },
+        {
+          "id": 6,
+          "name": "Guaimbê",
+          "price": 0,
+          "url": "/images/guaimbe.png"
+        },
+        {
+          "id": 7,
+          "name": "Clúsia",
+          "price": 0,
+          "url": "/images/clusia.png"
+        },
+        {
+          "id": 8,
+          "name": "Peperômia",
+          "price": 0,
+          "url": "/images/peperomia.png"
+        }
+      ]
+    },
+    {
+      "name": "Plantas Para Ambientes Internos",
+      "products": [
+        {
+          "id": 9,
+          "name": "Maranta Zebrina",
+          "price": 0,
+          "url": "/images/maranta-zebrinha.png"
+        },
+        {
+          "id": 10,
+          "name": "Palmeira Juçara",
+          "price": 0,
+          "url": "/images/palmeira-jucara.png"
+        },
+        {
+          "id": 11,
+          "name": "Samambaia Asplênio",
+          "price": 0,
+          "url": "/images/samambaia-asplenio.png"
+        },
+        {
+          "id": 12,
+          "name": "Bromélia Gusmânia",
+          "price": 0,
+          "url": "/images/bromelia-gusmania.png"
+        }
+      ]
+    },
+    {
+      "name": "Plantas Para Jardim",
+      "products": [
+        {
+          "id": 13,
+          "name": "Ipê-amarelo",
+          "price": 0,
+          "url": "/images/ipe-amarelo.png"
+        },
+        {
+          "id": 14,
+          "name": "Manacá-da-serra",
+          "price": 0,
+          "url": "/images/manaca-da-serra.png"
+        },
+        {
+          "id": 15,
+          "name": "Jabuticabeira",
+          "price": 0,
+          "url": "/images/jabuticabeira.png"
+        },
+        {
+          "id": 16,
+          "name": "Quaresmeira",
+          "price": 0,
+          "url": "/images/quaresmeira.png"
+        }
+      ]
+    },
+    {
+      "name": "Plantas Para Jardim de Chuva",
+      "products": [
+        {
+          "id": 17,
+          "name": "Íris-da-praia",
+          "price": 0,
+          "url": "/images/iris-da-praia.png"
+        },
+        {
+          "id": 18,
+          "name": "Guaivira",
+          "price": 0,
+          "url": "/images/guaivira.png"
+        },
+        {
+          "id": 19,
+          "name": "Ingá-feijão",
+          "price": 0,
+          "url": "/images/inga-feijao.png"
+        },
+        {
+          "id": 20,
+          "name": "Taboa",
+          "price": 0,
+          "url": "/images/taboa.png"
+        }
+      ]
+    }
+  ]
+}
