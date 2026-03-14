@@ -5,6 +5,7 @@
   padding: 0;
   border: 0;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .poppins-regular {
@@ -20,7 +21,7 @@
 }
 
 :root {
-  --primary-green-color: #41705a;
+  --primary-green-color: #135f3c;
   --primary-white-color: #fff8f0;
 }
 
@@ -56,7 +57,37 @@ body {
     
 }
 
-.nav-bar a {
+/* Banner  */
+.banner{
+    width: 100vw;
+    height: 750px;
+    display: flex;
+    align-items: center;
+    
+    background-image: 
+        linear-gradient(to top, rgba(0,0,0,0.9), rgba(0,0,0,0)),
+        url(/Images/banner-image.png);
 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    color: var(--primary-white-color);
+    padding: 50px;
+}
+
+.banner div{
+    padding-bottom: 50px;
+}
+
+.banner span{
+    color: var(--primary-green-color);
+}
+
+.banner div p {
+    font-size: 2rem;
+}
+.banner h1 {
+    font-size: 4rem;
 }
 
