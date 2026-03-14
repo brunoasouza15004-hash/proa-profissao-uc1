@@ -17,7 +17,7 @@
         },
         {
           "id": 3,
-          "name": "Bromélia Gusmânia",
+          "name": "Bromélia-Gusmânia",
           "price": 0,
           "url": "/images/bromelia-gusmania.png"
         },
@@ -69,19 +69,19 @@
         },
         {
           "id": 10,
-          "name": "Palmeira Juçara",
+          "name": "Palmeira-Juçara",
           "price": 0,
           "url": "/images/palmeira-jucara.png"
         },
         {
           "id": 11,
-          "name": "Samambaia Asplênio",
+          "name": "Samambaia-Asplênio",
           "price": 0,
           "url": "/images/samambaia-asplenio.png"
         },
         {
           "id": 12,
-          "name": "Bromélia Gusmânia",
+          "name": "Bromélia-Gusmânia",
           "price": 0,
           "url": "/images/bromelia-gusmania.png"
         }
